@@ -1,2 +1,2 @@
 # Bob-Le-Bricoleur
-smol javascript thing
+smol javascript thing (406 bytes)
